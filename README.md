@@ -3,7 +3,8 @@ First coding challenge designed to exhibit skills learned over lesson 1. Using t
 
 # Live Link
 Please view the live site here-
+https://jpage96.github.io/urban-refactor
 
 # Screenshot
 View mockup
-! [Horiseon-Mockup] (./assets/images/mockup.png)
+<img src="https://github.com/JPage96/urban-refactor/blob/main/assets/images/mockup.png"
