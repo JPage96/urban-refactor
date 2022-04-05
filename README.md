@@ -7,4 +7,4 @@ https://jpage96.github.io/urban-refactor
 
 # Screenshot
 View mockup
-<img src="https://github.com/JPage96/urban-refactor/blob/main/assets/images/mockup.png"
+https://github.com/JPage96/urban-refactor/blob/main/assets/images/mockup.png
